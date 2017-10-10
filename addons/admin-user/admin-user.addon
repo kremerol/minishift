@@ -3,3 +3,4 @@
 
 oc create user admin --full-name=admin
 oc adm policy add-cluster-role-to-user cluster-admin admin
+echo admin user create with cluster-admin role
